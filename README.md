@@ -2,7 +2,7 @@
 
 # Roadmap and Home of Feature Requests
 
-We've got a lot of good ideas to keep pushing Flare to be the best error tracker for Laravel it can be and we're sure that you've got some ideas too. Feel free to open issues with any suggestion or feature request you can think of. Adding reactions to exisiting feature requests helps us triage good ideas and choose features we'll all enjoy in the future!
+We've got a lot of good ideas to keep pushing Flare to be the best error tracker for Laravel it can be and we're sure that you've got some ideas too. Feel free to open a discussion with any suggestion or feature request you can think of. Adding reactions to exisiting feature requests helps us triage good ideas and choose features we'll all enjoy in the future!
 
 Here for the road trip? Our road map of accepted ideas can be found in [the projects section of this repo](https://github.com/spatie/flareapp.io-roadmap/projects/1?fullscreen=true).
 
